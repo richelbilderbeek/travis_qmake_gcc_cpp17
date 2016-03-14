@@ -3,7 +3,8 @@
 [![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 
 [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
-Note: this build will fail, up until C++17 is implemented more.
+
+Note: this build will fail, up until C++17 is implemented further.
 
 The goal of this project is to have a clean Travis CI build, with specs:
  * Build system: `qmake`
