@@ -1,9 +1,12 @@
-#include <iostream>
+auto concept LessThanComparable<typename T> {
+    bool operator<(T, T);
+}
 
-auto f() noexcept {
-  return "Hello world\n";
+template<typename T> requires LessThanComparable<T>
+const T& min(const T &x, const T &y) {
+    return (y < x) ? y : x;
 }
 
 int main() {
-  std::cout << f();
+  if (min(42,314) != 42) { return 1; }
 }
