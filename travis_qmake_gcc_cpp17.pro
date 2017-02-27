@@ -1,10 +1,12 @@
-TEMPLATE = app
-CONFIG += console
-CONFIG -= app_bundle qt
-SOURCES += main.cpp
+# C++17
+CONFIG += c++17
+QMAKE_CXX = g++-6
+QMAKE_LINK = g++-6
+QMAKE_CC = gcc-6
+QMAKE_CXXFLAGS += -std=c++17
+
+# High warning level
 QMAKE_CXXFLAGS += -Wall -Wextra -Weffc++ -Werror
 
-QMAKE_CXX = g++-5
-QMAKE_LINK = g++-5
-QMAKE_CC = gcc-5
-QMAKE_CXXFLAGS += -std=c++17
+# Files
+SOURCES += main.cpp

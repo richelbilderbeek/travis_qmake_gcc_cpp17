@@ -1,8 +1,17 @@
 sudo: true
 language: cpp
 compiler: gcc
+
 before_install:
+  # C++17
   - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
   - sudo apt-get update -qq
-install: sudo apt-get install -qq g++-5
-script: ./build.sh
+
+install: 
+  # C++18
+  - sudo apt-get install -qq g++-6
+
+script:
+  - qmake
+  - make
+  - ./travis_qmake_gcc_cpp17
