@@ -4,8 +4,6 @@
 
 [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
 
-Note: this build will fail, up until C++17 is implemented further.
-
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 
 The goal of this project is to have a clean Travis CI build, with specs:
