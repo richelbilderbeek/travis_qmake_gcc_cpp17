@@ -2,6 +2,20 @@ language: cpp
 dist: xenia
 compiler: gcc
 
+
+before_install:
+  # C++14
+  - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
+  - sudo apt-get update -qq
+
+install: 
+  # C++14
+  - sudo apt-get install -qq g++-9
+  - sudo apt-get install -qq g++-8
+  - sudo apt-get install -qq g++-7
+  - sudo apt-get install -qq g++-6
+  - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-6 90
+
 script: 
   - qmake
   - make
