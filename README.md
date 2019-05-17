@@ -15,7 +15,8 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Source: one single file, `main.cpp`
 
 More complex builds:
- * Add Coverity Scan: [travis_qmake_gcc_cpp17_coverity](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_coverity)
+
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_xmlpp.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_xmlpp) Add `xml++`: [travis_qmake_gcc_cpp17_xmlpp](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_xmlpp)
 
 Less complex builds:
  * Use C++98: [travis_qmake_gcc_cpp98](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98)
