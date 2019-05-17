@@ -10,11 +10,10 @@ before_install:
 
 install: 
   # C++14
-  #- sudo apt-get install -qq g++-9 NOP
   - sudo apt-get install -qq g++-8
-  - sudo apt-get install -qq g++-7
-  - sudo apt-get install -qq g++-6
-  - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-6 90
+  #- sudo apt-get install -qq g++-7
+  #- sudo apt-get install -qq g++-6
+  #- sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-6 90
 
 script: 
   - qmake
