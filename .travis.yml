@@ -1,7 +1,6 @@
 language: cpp
-dist: xenial
+dist: bionic
 compiler: gcc
-
 
 before_install:
   # C++17
