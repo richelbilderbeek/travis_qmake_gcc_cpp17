@@ -34,3 +34,4 @@ Makefile
 *.pro.user
 travis_qmake_gcc_cpp14
 travis_qmake_gcc_cpp17
+.qmake.stash
