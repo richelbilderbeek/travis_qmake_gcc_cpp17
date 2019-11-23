@@ -1,7 +1,7 @@
 # travis_qmake_gcc_cpp17
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
----|---
+Branch   |[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `master`|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
 
@@ -23,6 +23,7 @@ More complex builds:
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_codechecker.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_codechecker) Add CodeChecker: [travis_qmake_gcc_cpp17_codechecker](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_codechecker)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_doxygen.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_doxygen) Add Doxygen: [travis_qmake_gcc_cpp17_doxygen](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_doxygen)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_gcov) Add code coverage: [travis_qmake_gcc_cpp17_gcov](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_gcov)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_clang-tidy.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_clang-tidy) Add `clang-tidy`: [travis_qmake_gcc_cpp17_clang-tidy](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_clang-tidy)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_cppcheck.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_cppcheck) Add `cppcheck`: [travis_qmake_gcc_cpp17_cppcheck](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_cppcheck)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_fltk.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_fltk) Add `FLTK`: [travis_qmake_gcc_cpp17_fltk](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_fltk)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_gprof.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_gprof) Add `gprof`: [travis_qmake_gcc_cpp17_gprof](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_gprof)
