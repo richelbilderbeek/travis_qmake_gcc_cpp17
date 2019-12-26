@@ -1,8 +1,8 @@
 # travis_qmake_gcc_cpp17
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
----|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
+Branch   |[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+`master` |[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
 
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
@@ -20,8 +20,9 @@ More complex builds:
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_bpp.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_bpp) Add `Bio++`: [travis_qmake_gcc_cpp17_bpp](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_bpp)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_boost.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_boost) Add `Boost`: [travis_qmake_gcc_cpp17_boost](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_boost)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_boost_test.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_boost_test) Add `Boost.Test`: [travis_qmake_gcc_cpp17_boost_test](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_boost_test)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_clang-format.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_clang-format) [travis_qmake_gcc_cpp17_clang-format](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_clang-format)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_clang-tidy.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_clang-tidy) [travis_qmake_gcc_cpp17_clang-tidy](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_clang-tidy)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_codechecker.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_codechecker) Add CodeChecker: [travis_qmake_gcc_cpp17_codechecker](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_codechecker)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_deploy.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_deploy) Add deploy: [travis_qmake_gcc_cpp17_deploy](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_deploy)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_doxygen.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_doxygen) Add Doxygen: [travis_qmake_gcc_cpp17_doxygen](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_doxygen)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_gcov) Add code coverage: [travis_qmake_gcc_cpp17_gcov](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17_gcov)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_cppcheck.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_cppcheck) Add `cppcheck`: [travis_qmake_gcc_cpp17_cppcheck](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_cppcheck)
