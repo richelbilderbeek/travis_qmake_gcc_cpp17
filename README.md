@@ -1,11 +1,9 @@
 # travis_qmake_gcc_cpp17
 
-Branch   |[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-`master` |[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
-`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
-
-![GitHub Actions](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17/workflows/check/badge.svg?branch=master)
+Branch   |[GitHub Actions](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17/actions)                                  |[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+`master` |![GitHub Actions](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17/workflows/check/badge.svg?branch=master) |[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
+`develop`|![GitHub Actions](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17/workflows/check/badge.svg?branch=develop)|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
 
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 
@@ -48,8 +46,9 @@ More complex builds:
 
 Builds of similar complexity:
 
- * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_clang_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_clang_cpp17) Use `clang` instead of `gcc`: [travis_qmake_clang_cpp17](https://www.github.com/richelbilderbeek/travis_qmake_clang_cpp17)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_cmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_cmake_gcc_cpp17) Use `cmake` instead of `qmake`: [travis_cmake_gcc_cpp17](https://www.github.com/richelbilderbeek/travis_cmake_gcc_cpp17)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17) Use Travis CI: [travis_qmake_gcc_cpp17](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17)
+ * [![pipeline status](https://gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp17/badges/master/pipeline.svg)](https://gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp17/commits/master) Use GitLab CI: [gitlab_qmake_gcc_cpp17](https://www.gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp17)
+ * ![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp17/workflows/check/badge.svg?branch=master) Use GitHub Actions: [gha_qmake_gcc_cpp17](https://www.github.com/richelbilderbeek/gha_qmake_gcc_cpp17)
 
 Less complex builds:
 
