@@ -1,7 +1,7 @@
 # travis_qmake_gcc_cpp17
 
-Branch   |[![GitHub Actions logo](pics/GitHubActions.png)](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17/actions)  |[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
----------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Branch   |[![GitHub Actions logo](pics/GitHubActions.png)](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17/actions)  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)                                                                                                     
+---------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `master` |![GitHub Actions](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17/workflows/check/badge.svg?branch=master) |[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
 `develop`|![GitHub Actions](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp17/workflows/check/badge.svg?branch=develop)|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17)
 
